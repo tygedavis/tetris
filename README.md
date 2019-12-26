@@ -4,7 +4,7 @@ This [link](https://www.youtube.com/watch?v=ZGOaCxX8HIU&list=LLa_7mPBudThhXUgB9Y
 
 <details>
   <summary>Built Using</summary>
-  <p>React</p>
-  <p>Custom Hooks</p>
-  <p>Styled Components</p>
+  <li>React</li>
+  <li>Custom Hooks</li>
+  <li>Styled Components</li>
 </details>
